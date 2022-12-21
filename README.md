@@ -1,7 +1,7 @@
 <h1>The Basics</h1>
 <ul>
   <li> Hi, I'm Alyx.</li>
-  <li>My website exists @ [aleteoryx.me](https://aleteoryx.me)</li>
+  <li>My website exists @ <a href= "https://aleteoryx.me">aleteoryx.me</a>, but it's a bit unfinished. <b>Flashing lights warning!</b></li>
   <li>btw, I use arch</li>
   <li>she/they</li>
   <li>I speak</li>
