@@ -21,6 +21,11 @@
 - GLSL
 - SQL
 
+# (Human) Languages I've got experience with
+- English
+- 日本語
+- Français
+
 # Technologies I've got experience with
 - linux
 - BSD
