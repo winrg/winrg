@@ -29,6 +29,7 @@
     <li>Perl</li>
     <li>GLSL</li>
     <li>SQL</li>
+    <li>PowerShell</li>
   </ul>
 </details>
 
@@ -54,6 +55,7 @@
     <li>GTK</li>
     <li>MySQL</li>
     <li>sqlite</li>
+    <li>ESP-IDF</li>
   </ul>
 </details>
 
@@ -63,19 +65,22 @@
     <li>GIF*</li>
     <li>IMAP</li>
     <li>DNS</li>
+    <li>WebSockets</li>
   </ul>
 </details>
 
 <details><summary><h2>Standards I know enough to use</h2></summary>
   <ul>
-    <li>WebSockets</li>
     <li>SSL/TLS</li>
     <li>QUIC</li>
     <li>HTTP/3.0</li>
+    <li>RDAP</li>
+    <li>ActivityPub/ActivityStreams</li>
+    <li>DHCP</li>
   </ul>
 </details>  
 
-<details><summary><h2>Libraries I've worked with</h2></summary>
+<details><summary><h2>Notable Libraries I've worked with</h2></summary>
   <ul>
     <li>JavaScript</li>
     <ul>
@@ -95,9 +100,10 @@
     <ul>
       <li>pixels</li>
       <li>winit</li>
-      <li>serde(TOML,JSON,RON)</li>
+      <li>serde</li>
       <li>sqlx</li>
       <li>serenity</li>
+      <li>tokio</li>
     </ul>
     <li>PHP</li>
     <ul>
@@ -108,6 +114,7 @@
       <li>pycord</li>
       <li>numpy</li>
       <li>pymysql</li>
+      <li>bs4</li>
     </ul>
   </ul>
 </details>
