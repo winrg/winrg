@@ -10,9 +10,15 @@
     <li>日本語</li>
     <li>Français</li>
   </ul>
+  <li>I do</li>
+  <ul>
+    <li>Full-Stack Web Development</li>
+    <li>Systems Administration</li>
+    <li>Dumb Things</li>
+  </ul>
 </ul>
 
-<details><summary><h2>Languages I've got experience with</h2></summary>
+<details><summary><b>Languages I know enough to put here and not feel like a liar</b></summary>
   <ul>
     <li>JavaScript</li>
     <li>C</li>
@@ -33,43 +39,38 @@
   </ul>
 </details>
 
-<details><summary><h2>Technologies I've got experience with</h2></summary>
+<details><summary><b>Technologies I can harness if I were to take over the world tomorrow</b></summary>
   <ul>
     <li>linux</li>
-    <li>BSD</li>
     <li>k8s</li>
     <li>docker</li>
     <li>libvirt/kvm</li>
-    <li>dri</li></li>
-    <li>xorg</li>
-    <li>wayland</li>
     <li>opengl</li>
-    <li>regular expressions</li>
-    <li>posix</li>
     <li>systemd</li>
-    <li>dbus</li>
-    <li>cockpit</li>
     <li>AWS</li>
-    <li>Google Maps</li>
-    <li>Asynchronous Programming</li>
-    <li>GTK</li>
     <li>MySQL</li>
-    <li>sqlite</li>
     <li>ESP-IDF</li>
   </ul>
 </details>
 
-<details><summary><h2>Standards I'm plenty familliar with</h2></summary>
+<details><summary><b>Footguns I've got good aim with</b></summary>
+  <ul>
+    <li>Regexes</li>
+  </ul>
+</details>
+
+<details><summary><b>Standards I could probably reimplement were I the last person on Earth</b></summary>
   <ul>
     <li>HTTP < 3.0</li>
     <li>GIF*</li>
     <li>IMAP</li>
+    <li>SMTP</li>
     <li>DNS</li>
     <li>WebSockets</li>
   </ul>
 </details>
 
-<details><summary><h2>Standards I know enough to use</h2></summary>
+<details><summary><b>Standards I couldn't reimplement but could use if they were like, on an apocalyptic hard drive or something</b></summary>
   <ul>
     <li>SSL/TLS</li>
     <li>QUIC</li>
@@ -77,44 +78,6 @@
     <li>RDAP</li>
     <li>ActivityPub/ActivityStreams</li>
     <li>DHCP</li>
-  </ul>
-</details>  
-
-<details><summary><h2>Notable Libraries I've worked with</h2></summary>
-  <ul>
-    <li>JavaScript</li>
-    <ul>
-      <li>React</li>
-      <li>Express.js</li>
-    </ul>
-    <li>C/C++</li></li>
-    <ul>
-      <li>SDL2</li>
-      <li>GLFW</li>
-      <li>libxml</li>
-      <li>Xlib</li>
-      <li>OpenGL</li>
-      <li>wlroots</li>
-    </ul>
-    <li>Rust</li>
-    <ul>
-      <li>pixels</li>
-      <li>winit</li>
-      <li>serde</li>
-      <li>sqlx</li>
-      <li>serenity</li>
-      <li>tokio</li>
-    </ul>
-    <li>PHP</li>
-    <ul>
-      <li>laravel</li>
-    </ul>
-    <li>Python</li>
-    <ul>
-      <li>pycord</li>
-      <li>numpy</li>
-      <li>pymysql</li>
-      <li>bs4</li>
-    </ul>
+    <li>LDAP</li>
   </ul>
 </details>
