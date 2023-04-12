@@ -13,6 +13,8 @@
   <li>I do</li>
   <ul>
     <li>Full-Stack Web Development</li>
+    <li>The stuff under the stack, too</li>
+    <li>Lots of random personal stuff lol</li>
     <li>Systems Administration</li>
     <li>Dumb Things</li>
   </ul>
