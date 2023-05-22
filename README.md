@@ -1,24 +1,5 @@
-<h1>The Basics</h1>
-<ul>
-  <li> Hi, I'm Alyx.</li>
-  <li>My website exists @ <a href= "https://aleteoryx.me">aleteoryx.me</a>, but it's a bit unfinished. <b>Flashing lights warning!</b></li>
-  <li>btw, I use arch</li>
-  <li>she/they</li>
-  <li>I speak</li>
-  <ul>
-    <li>English</li>
-    <li>日本語</li>
-    <li>Français</li>
-  </ul>
-  <li>I do</li>
-  <ul>
-    <li>Full-Stack Web Development</li>
-    <li>The stuff under the stack, too</li>
-    <li>Lots of random personal stuff lol</li>
-    <li>Systems Administration</li>
-    <li>Dumb Things</li>
-  </ul>
-</ul>
+# The Basics
+Hi. I'm winrg, a g/u/rl, a [sysadmin](https://xkcd.com/705), and a [fucking webmaster](https://justinjackson.ca/webmaster/).
 
 <details><summary><b>Languages I know enough to put here and not feel like a liar</b></summary>
   <ul>
